@@ -1,0 +1,16 @@
+D:\معلوماتية 3\project\player\player\bin\Debug\player.exe
+D:\معلوماتية 3\project\player\player\bin\Debug\player.pdb
+D:\معلوماتية 3\project\player\player\obj\Debug\player.csprojResolveAssemblyReference.cache
+D:\معلوماتية 3\project\player\player\obj\Debug\player.Form1.resources
+D:\معلوماتية 3\project\player\player\obj\Debug\player.Properties.Resources.resources
+D:\معلوماتية 3\project\player\player\obj\Debug\player.csproj.GenerateResource.Cache
+D:\معلوماتية 3\project\player\player\obj\Debug\player.exe
+D:\معلوماتية 3\project\player\player\obj\Debug\player.pdb
+C:\Users\HP\Desktop\player\player\obj\Debug\player.pdb
+C:\Users\HP\Desktop\player\player\bin\Debug\player.exe
+C:\Users\HP\Desktop\player\player\bin\Debug\player.pdb
+C:\Users\HP\Desktop\player\player\obj\Debug\player.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\player\player\obj\Debug\player.Form1.resources
+C:\Users\HP\Desktop\player\player\obj\Debug\player.Properties.Resources.resources
+C:\Users\HP\Desktop\player\player\obj\Debug\player.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\player\player\obj\Debug\player.exe
